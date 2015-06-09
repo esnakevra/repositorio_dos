@@ -88,7 +88,7 @@ $(document).ready(function(){
     //como hacemos uso del metodo GET
     //colocamos null
 //esto es un comentario
-//esto es un comentario
+
     ajax.send(null)
   }
 }
